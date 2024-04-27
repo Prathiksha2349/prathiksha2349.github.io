@@ -1,0 +1,6 @@
+.navbar{
+    background-color:  aqua !important;
+}
+.navbar:hover{
+    cursor:pointer;
+}
